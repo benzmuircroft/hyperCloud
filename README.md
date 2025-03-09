@@ -1,5 +1,8 @@
 ## 🕳🥊☁️ hyperCloud
 
+## Sync timings
+- updates come with military UTC dates so everyone can act and mesure bug timeouts
+
 ### Planning
 I wrote out my idea and explained it to AI to gain confirmation on my idea:
 ```
