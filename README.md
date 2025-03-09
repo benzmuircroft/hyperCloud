@@ -1,7 +1,8 @@
 ## 🕳🥊☁️ hyperCloud
 
-## Sync timings
+## Sync timings (todo:)
 - updates come with military UTC dates so everyone can act and mesure bug timeouts
+- a block chain handles bug reversals for everyone like getting on or of the bus
 
 ### Planning
 I wrote out my idea and explained it to AI to gain confirmation on my idea:
