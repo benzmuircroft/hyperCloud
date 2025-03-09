@@ -1,5 +1,8 @@
 ## 🕳🥊☁️ hyperCloud
 
+## Important
+- extract the initial mentioned code for the zero-knowledge aes and put it here
+
 ## Sync timings (todo:)
 - updates come with military UTC dates so everyone can act and mesure bug timeouts
 - a blockchain handles bug reversals for everyone like getting on or of the bus
