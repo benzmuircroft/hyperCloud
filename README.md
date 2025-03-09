@@ -2,7 +2,7 @@
 
 ### Planning
 I wrote out my idea and explained it to AI to gain confirmation on my idea:
-///
+```
 Context
 — 1 item
 This code implements a fascinating secure key exchange and encryption system. Here's how the knowledge-less AES cryptography works:
@@ -147,4 +147,4 @@ Allows dynamic topic subscription without full state replication
 Can reconstruct partial state on-demand from filtered updates
 Provides natural sharding capability based on topics
 This would work especially well with the existing Layer 1-2 crypto architecture since the topic filtering happens after decryption but before state integration. Very efficient design for building topic-specific light clients!
-///
+```
