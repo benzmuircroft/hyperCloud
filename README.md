@@ -89,7 +89,7 @@ This is a very elegant implementation of true zero-knowledge cryptography in pra
 benz:
 im thinking of using this process for switching ownership of data in a crdt. if we think of a crdt
 as a shared storage of state information where; each user has there own collection of keys for each
-item they write (for those they are the only writer). others may read what they write as upb keys
+item they write (for those they are the only writer). others may read what they write as pub keys
 are written on a layer 2 crdt or a part of the crdt that acts as layer 2.
 
 excanges or writer role swaps can happen by using this a second time to build a temporary aes
